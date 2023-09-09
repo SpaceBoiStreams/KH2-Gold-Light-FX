@@ -1,0 +1,25 @@
+title: Gold Light FX
+description: A simple mod that changes the color of light used for multiple effects. Was supposed to be for just the glow for Final Form, but unfortunately it doesn't work like that.
+assets:
+#PC ONLY
+#BASE
+- name: remastered\effect\texcommon.dpd/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Gold FX/-0.dds
+- name: remastered\effect\texcommon.dpd/-2.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Gold FX/-2.dds
+- name: remastered\effect\texcommon.dpd/-5.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Gold FX/-5.dds
+- name: remastered\effect\texcommon.dpd/-10.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Gold FX/-10.dds
